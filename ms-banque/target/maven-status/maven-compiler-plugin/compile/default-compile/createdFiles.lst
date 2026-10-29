@@ -1,0 +1,6 @@
+com\banque\entities\TypeCompte.class
+com\banque\repositories\CompteRepository.class
+com\banque\web\CompteRestJaxRSAPI.class
+com\banque\config\MyConfig.class
+com\banque\MsBanqueApplication.class
+com\banque\entities\Compte.class
